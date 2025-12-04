@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akram Zali</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
+<hr>
+<p> I’m a web developer with around 3 years of experience in designing and building modern websites. I specialize in HTML, CSS, JavaScript, React.js, and also have solid experience creating and customizing websites using WordPress. I prioritize writing clean code and following clean architecture principles, aiming to deliver high-quality results through smart, efficient, and scalable solutions.I’m committed to continuous learning, keeping myself up to date with the latest technologies and best practices. I enjoy collaborating on projects and contributing to meaningful, real-world solutions.
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akramzali" alt="akramzali" /></a> </p>
 
